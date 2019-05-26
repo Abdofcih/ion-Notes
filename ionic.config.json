@@ -1,0 +1,7 @@
+{
+  "name": "ion-note",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
